@@ -1,5 +1,4 @@
 import Header from "@/components/Header";
-import { SanityLive } from "@/sanity/lib/live";
 import type { Metadata } from "next";
 import "../styles/globals.css";
 
