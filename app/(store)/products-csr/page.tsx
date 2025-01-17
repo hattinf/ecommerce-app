@@ -23,6 +23,10 @@ export default function ProductsPage() {
 
   return (
     <div>
+      <meta
+        name="google-site-verification"
+        content="gEw4y6MmxopZpQLvLxMLDzlnJbOkDE2NTprU1-_r2a0"
+      />
       <h1>Products (Sanity Client)</h1>
       <ProductsView products={products} />
     </div>
